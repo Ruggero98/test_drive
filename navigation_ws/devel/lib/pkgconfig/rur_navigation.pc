@@ -1,1 +1,0 @@
-/home/ruggero/navigation_ws/devel/.private/rur_navigation/lib/pkgconfig/rur_navigation.pc

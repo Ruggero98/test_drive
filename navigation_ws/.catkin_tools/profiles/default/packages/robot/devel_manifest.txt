@@ -1,5 +1,0 @@
-t265_robot_navigation/robot
-/home/ruggero/navigation_ws/devel/.private/robot/cmake.lock /home/ruggero/navigation_ws/devel/./cmake.lock
-/home/ruggero/navigation_ws/devel/.private/robot/lib/pkgconfig/robot.pc /home/ruggero/navigation_ws/devel/lib/pkgconfig/robot.pc
-/home/ruggero/navigation_ws/devel/.private/robot/share/robot/cmake/robotConfig.cmake /home/ruggero/navigation_ws/devel/share/robot/cmake/robotConfig.cmake
-/home/ruggero/navigation_ws/devel/.private/robot/share/robot/cmake/robotConfig-version.cmake /home/ruggero/navigation_ws/devel/share/robot/cmake/robotConfig-version.cmake
