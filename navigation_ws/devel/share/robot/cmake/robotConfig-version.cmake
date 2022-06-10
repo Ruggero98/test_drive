@@ -1,0 +1,1 @@
+/home/ruggero/navigation_ws/devel/.private/robot/share/robot/cmake/robotConfig-version.cmake

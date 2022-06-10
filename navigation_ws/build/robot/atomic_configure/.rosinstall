@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ruggero/navigation_ws/devel/.private/robot/setup.sh

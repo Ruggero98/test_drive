@@ -1,0 +1,5 @@
+t265_robot_navigation/jackal_navigation
+/home/ruggero/navigation_ws/devel/.private/jackal_navigation/cmake.lock /home/ruggero/navigation_ws/devel/./cmake.lock
+/home/ruggero/navigation_ws/devel/.private/jackal_navigation/lib/pkgconfig/jackal_navigation.pc /home/ruggero/navigation_ws/devel/lib/pkgconfig/jackal_navigation.pc
+/home/ruggero/navigation_ws/devel/.private/jackal_navigation/share/jackal_navigation/cmake/jackal_navigationConfig-version.cmake /home/ruggero/navigation_ws/devel/share/jackal_navigation/cmake/jackal_navigationConfig-version.cmake
+/home/ruggero/navigation_ws/devel/.private/jackal_navigation/share/jackal_navigation/cmake/jackal_navigationConfig.cmake /home/ruggero/navigation_ws/devel/share/jackal_navigation/cmake/jackal_navigationConfig.cmake

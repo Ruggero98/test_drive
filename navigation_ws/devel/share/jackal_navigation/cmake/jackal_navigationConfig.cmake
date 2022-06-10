@@ -1,0 +1,1 @@
+/home/ruggero/navigation_ws/devel/.private/jackal_navigation/share/jackal_navigation/cmake/jackal_navigationConfig.cmake
